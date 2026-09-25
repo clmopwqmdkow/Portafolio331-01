@@ -1,0 +1,14 @@
+/Users/ake/CSharp/SE1/bin/Debug/net10.0/SE1
+/Users/ake/CSharp/SE1/bin/Debug/net10.0/SE1.deps.json
+/Users/ake/CSharp/SE1/bin/Debug/net10.0/SE1.runtimeconfig.json
+/Users/ake/CSharp/SE1/bin/Debug/net10.0/SE1.dll
+/Users/ake/CSharp/SE1/bin/Debug/net10.0/SE1.pdb
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/SE1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/SE1.AssemblyInfoInputs.cache
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/SE1.AssemblyInfo.cs
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/SE1.csproj.CoreCompileInputs.cache
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/SE1.dll
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/refint/SE1.dll
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/SE1.pdb
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/SE1.genruntimeconfig.cache
+/Users/ake/CSharp/SE1/obj/Debug/net10.0/ref/SE1.dll
